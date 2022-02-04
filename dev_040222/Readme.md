@@ -1,0 +1,1 @@
+geneBasis file performs geneBasis scheme on the Early RPC cells of the 10X dataset. subEarlyRPC performs usual single cell RNA analysing scheme on the extracted Early RPC cells of the 10X data and compares output marker genes with the ones obtained with geneBasis
