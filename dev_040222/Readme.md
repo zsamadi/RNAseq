@@ -1,3 +1,3 @@
 - **geneBasis file** performs the geneBasis scheme on the Early RPC cells of the 10X dataset. 
 - **subEarlyRPC** performs usual single cell RNA analysing scheme on the extracted Early RPC cells of the 10X data and compares output marker genes with the ones obtained with the geneBasis scheme. 
-- **geneBasis_Ube2c.npy** is the list of the geneBasis output genes. 
+- **geneBasis_Neurod1.npy** is the list of the geneBasis output genes. 
